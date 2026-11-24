@@ -1,25 +1,26 @@
-<h1 align="center">Olá, eu sou o Jorge Gabriel 👋</h1>
+<h1 align="center">Jorge Gabriel</h1>
 
 <p align="center">
-  Estudante de <b>Análise e Desenvolvimento de Sistemas</b> na <b>UNIFOR</b> · Fortaleza, CE<br>
-  Construindo aplicações web, APIs e aprendendo a colocar tudo na nuvem ☁️
+  <b>Systems Analysis and Development student at UNIFOR</b> · Fortaleza, Brazil<br>
+  Web applications, REST APIs and cloud deployment on AWS · Interested in DevOps
 </p>
 
 <p align="center">
-  <img src="assets/foco.svg" alt="Foco: DevOps e Web">
-  <img src="assets/status.svg" alt="Aprendendo todo dia">
+  <a href="mailto:jorgegabrielpinheirofrutuoso@gmail.com">jorgegabrielpinheirofrutuoso@gmail.com</a>
+  &nbsp;·&nbsp;
+  <a href="README.pt-BR.md">Versão em português</a>
 </p>
 
 ---
 
-### 🧑‍💻 Sobre mim
+### About
 
-- 🎓 Cursando **ADS na Universidade de Fortaleza (UNIFOR)**
-- 🌱 Estudando **programação orientada a objetos, cloud computing, testes e engenharia de requisitos**
-- 🚀 Interesse em **DevOps** e **desenvolvimento web**
-- ⚙️ Gosto de aprender na prática: cada projeto aqui é algo que funciona de verdade
+- Undergraduate in **Systems Analysis and Development** at **Universidade de Fortaleza (UNIFOR)**
+- Building full-stack web applications with **Node.js**, testing them with **Jest** and deploying them on **AWS EC2**
+- Currently studying object-oriented programming, cloud computing, software testing and requirements engineering
+- Open to **internship opportunities** in web development, cloud and DevOps
 
-### 🛠️ Tecnologias
+### Tech stack
 
 <p>
   <img src="assets/javascript.svg" alt="JavaScript">
@@ -37,38 +38,34 @@
   <img src="assets/jest.svg" alt="Jest">
 </p>
 
-### ⭐ Projetos em destaque
+### Featured projects
 
-#### [FitGo — Sistema de gestão de academia](https://github.com/Eujorgyn/Entregavel-5)
+#### [FitGo — Gym management system](https://github.com/Eujorgyn/fitgo-gestao-academia)
 
-Aplicação web completa rodando na **AWS EC2**: painel com indicadores e gráficos, cadastro de alunos, planos e matrículas, ficha do aluno, exportação CSV e **controle de acesso por perfil** (administrador × recepção).
+Full-stack web application running on **AWS EC2**: dashboard with metrics and charts, members, plans and enrollments, member profile, CSV export and **role-based access control** (admin and front desk).
 
-`Node.js 22` · `API REST` · `SQLite` · `HTML/CSS/JS` · `15 testes automatizados` · `GitHub Actions` · `Docker`
+`Node.js 22` · `REST API` · `SQLite` · `HTML/CSS/JS` · `15 automated tests` · `GitHub Actions` · `Docker`
 
-🔗 **Online:** http://32.200.104.4
+**Live demo:** http://32.200.104.4
 
-#### [GlobalConnect Unifor — Intercâmbio em um só lugar](https://github.com/Eujorgyn/GlobalConnect-Unifor)
+#### [GlobalConnect Unifor — Study-abroad hub](https://github.com/Eujorgyn/GlobalConnect-Unifor)
 
-Protótipo mobile que centraliza o intercâmbio da Unifor: oportunidades, editais, documentos e acompanhamento da candidatura. Projeto de **Requisitos e Modelagem de Sistemas** feito em equipe, do zero até o pitch final: 4 entrevistas, 12 dores mapeadas, 28 requisitos funcionais, 32 histórias de usuário, 76 critérios de aceitação e 23 telas.
+Mobile prototype that brings UNIFOR's exchange program into a single place: opportunities, calls, documents and application tracking. Team project for **Requirements Engineering and Systems Modeling**, from discovery to final pitch: 4 stakeholder interviews, 28 functional requirements, 32 user stories, 76 acceptance criteria and 23 screens.
 
-`Engenharia de requisitos` · `Histórias de usuário` · `UML` · `UX mobile-first` · `PT/EN` · `Tema claro e escuro`
+`Requirements engineering` · `User stories` · `UML` · `Mobile-first UX` · `PT/EN` · `Light and dark themes`
 
-📱 **Protótipo:** https://claude.ai/artifact/LTj5QFfjPhncpHS4FNrqVY
+### Other projects
 
-### 📂 Outros projetos
-
-| Projeto | O que é | Stack |
+| Project | Description | Stack |
 |---|---|---|
-| [Entregavel-4](https://github.com/Eujorgyn/Entregavel-4) | Algoritmos com programação defensiva e testes unitários | JavaScript · Jest |
-| [Projeto-2-Nuvem](https://github.com/Eujorgyn/Projeto-2-Nuvem) | Aplicação web publicada na AWS EC2 | Node.js · AWS |
-| [site-soma](https://github.com/Eujorgyn/site-soma) | Formulário com rotas GET e POST | Node.js · Express |
-| [Entregavel-2-Java](https://github.com/Eujorgyn/Entregavel-2-Java) | Algoritmos e depuração em Java | Java |
-| [Entregavel-1](https://github.com/Eujorgyn/Entregavel-1) | Somatório, Fibonacci e Quicksort | JavaScript · Java |
-| [projeto1-node](https://github.com/Eujorgyn/projeto1-node) | Lista de tarefas | HTML · CSS · JS |
+| [algoritmos-js-jest](https://github.com/Eujorgyn/algoritmos-js-jest) | Core algorithms with defensive programming and unit tests | JavaScript · Jest |
+| [node-aws-ec2](https://github.com/Eujorgyn/node-aws-ec2) | Request-response web app deployed on AWS EC2 | Node.js · AWS |
+| [api-usuarios-express](https://github.com/Eujorgyn/api-usuarios-express) | REST API that lists and queries users from JSON | Node.js · Express |
+| [site-soma](https://github.com/Eujorgyn/site-soma) | Form handling with GET and POST routes | Node.js · Express |
+| [algoritmos-java-debug](https://github.com/Eujorgyn/algoritmos-java-debug) | Algorithms and step-by-step debugging in Java | Java |
+| [algoritmos-js-java](https://github.com/Eujorgyn/algoritmos-js-java) | Summation, Fibonacci and Quicksort | JavaScript · Java |
+| [todo-list-js](https://github.com/Eujorgyn/todo-list-js) | To-do list web app | HTML · CSS · JavaScript |
 
-### 📊 Estatísticas
+### Contact
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Eujorgyn&show_icons=true&hide_border=true&bg_color=0b0b0c&title_color=a3e635&icon_color=a3e635&text_color=e5e5e5&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eujorgyn&layout=compact&hide_border=true&bg_color=0b0b0c&title_color=a3e635&text_color=e5e5e5&locale=pt-br" alt="Linguagens mais usadas">
-</p>
+**Email:** [jorgegabrielpinheirofrutuoso@gmail.com](mailto:jorgegabrielpinheirofrutuoso@gmail.com)
