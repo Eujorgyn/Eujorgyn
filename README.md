@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Foco-DevOps%20%26%20Web-a3e635?style=for-the-badge&labelColor=0b0b0c" alt="Foco: DevOps e Web">
-  <img src="https://img.shields.io/badge/Status-Aprendendo%20todo%20dia-a3e635?style=for-the-badge&labelColor=0b0b0c" alt="Aprendendo todo dia">
+  <img src="assets/foco.svg" alt="Foco: DevOps e Web">
+  <img src="assets/status.svg" alt="Aprendendo todo dia">
 </p>
 
 ---
@@ -22,19 +22,19 @@
 ### 🛠️ Tecnologias
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-0b0b0c?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-0b0b0c?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js">
-  <img src="https://img.shields.io/badge/Express-0b0b0c?style=flat-square&logo=express&logoColor=white" alt="Express">
-  <img src="https://img.shields.io/badge/HTML5-0b0b0c?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-0b0b0c?style=flat-square&logo=css&logoColor=1572B6" alt="CSS3">
-  <img src="https://img.shields.io/badge/Java-0b0b0c?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-0b0b0c?style=flat-square&logo=python&logoColor=3776AB" alt="Python">
-  <img src="https://img.shields.io/badge/SQLite-0b0b0c?style=flat-square&logo=sqlite&logoColor=4FC3F7" alt="SQLite">
-  <img src="https://img.shields.io/badge/AWS%20EC2-0b0b0c?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS EC2">
-  <img src="https://img.shields.io/badge/Docker-0b0b0c?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
-  <img src="https://img.shields.io/badge/Git-0b0b0c?style=flat-square&logo=git&logoColor=F05032" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub%20Actions-0b0b0c?style=flat-square&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
-  <img src="https://img.shields.io/badge/Jest-0b0b0c?style=flat-square&logo=jest&logoColor=C21325" alt="Jest">
+  <img src="assets/javascript.svg" alt="JavaScript">
+  <img src="assets/node-js.svg" alt="Node.js">
+  <img src="assets/express.svg" alt="Express">
+  <img src="assets/html5.svg" alt="HTML5">
+  <img src="assets/css3.svg" alt="CSS3">
+  <img src="assets/java.svg" alt="Java">
+  <img src="assets/python.svg" alt="Python">
+  <img src="assets/sqlite.svg" alt="SQLite">
+  <img src="assets/aws-ec2.svg" alt="AWS EC2">
+  <img src="assets/docker.svg" alt="Docker">
+  <img src="assets/git.svg" alt="Git">
+  <img src="assets/github-actions.svg" alt="GitHub Actions">
+  <img src="assets/jest.svg" alt="Jest">
 </p>
 
 ### ⭐ Projeto em destaque
