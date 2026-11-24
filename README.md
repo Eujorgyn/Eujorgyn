@@ -37,7 +37,7 @@
   <img src="assets/jest.svg" alt="Jest">
 </p>
 
-### ⭐ Projeto em destaque
+### ⭐ Projetos em destaque
 
 #### [FitGo — Sistema de gestão de academia](https://github.com/Eujorgyn/Entregavel-5)
 
@@ -46,6 +46,14 @@ Aplicação web completa rodando na **AWS EC2**: painel com indicadores e gráfi
 `Node.js 22` · `API REST` · `SQLite` · `HTML/CSS/JS` · `15 testes automatizados` · `GitHub Actions` · `Docker`
 
 🔗 **Online:** http://32.200.104.4
+
+#### [GlobalConnect Unifor — Intercâmbio em um só lugar](https://github.com/Eujorgyn/GlobalConnect-Unifor)
+
+Protótipo mobile que centraliza o intercâmbio da Unifor: oportunidades, editais, documentos e acompanhamento da candidatura. Projeto de **Requisitos e Modelagem de Sistemas** feito em equipe, do zero até o pitch final: 4 entrevistas, 12 dores mapeadas, 28 requisitos funcionais, 32 histórias de usuário, 76 critérios de aceitação e 23 telas.
+
+`Engenharia de requisitos` · `Histórias de usuário` · `UML` · `UX mobile-first` · `PT/EN` · `Tema claro e escuro`
+
+📱 **Protótipo:** https://claude.ai/artifact/LTj5QFfjPhncpHS4FNrqVY
 
 ### 📂 Outros projetos
 
