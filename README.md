@@ -58,13 +58,14 @@ Protótipo mobile que centraliza o intercâmbio da UNIFOR: oportunidades, editai
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| [algoritmos-js-jest](https://github.com/Eujorgyn/algoritmos-js-jest) | Algoritmos com programação defensiva e testes unitários | JavaScript · Jest |
+| [testes-jest-algoritmos](https://github.com/Eujorgyn/testes-jest-algoritmos) | 6 algoritmos com programação defensiva e 25 testes unitários | JavaScript · Jest |
 | [node-aws-ec2](https://github.com/Eujorgyn/node-aws-ec2) | Aplicação web request-response publicada na AWS EC2 | Node.js · AWS |
 | [api-usuarios-express](https://github.com/Eujorgyn/api-usuarios-express) | API REST que lista e consulta usuários a partir de JSON | Node.js · Express |
 | [site-soma](https://github.com/Eujorgyn/site-soma) | Formulário com rotas GET e POST | Node.js · Express |
-| [algoritmos-java-debug](https://github.com/Eujorgyn/algoritmos-java-debug) | Algoritmos e depuração passo a passo em Java | Java |
-| [algoritmos-js-java](https://github.com/Eujorgyn/algoritmos-js-java) | Somatório, Fibonacci e Quicksort | JavaScript · Java |
-| [todo-list-js](https://github.com/Eujorgyn/todo-list-js) | Lista de tarefas | HTML · CSS · JavaScript |
+| [algoritmos-java-debug](https://github.com/Eujorgyn/algoritmos-java-debug) | Laboratório de algoritmos com interface Swing e depuração | Java |
+| [frontend-html-css-js](https://github.com/Eujorgyn/frontend-html-css-js) | Laboratório de algoritmos interativo e responsivo | HTML · CSS · JavaScript |
+| [todo-list-js](https://github.com/Eujorgyn/todo-list-js) | Gerenciador de tarefas com localStorage e arrastar e soltar | HTML · CSS · JavaScript |
+| [desafios-python](https://github.com/Eujorgyn/desafios-python) | Orientação a objetos: herança e polimorfismo | Python |
 
 ### Contato
 

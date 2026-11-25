@@ -58,13 +58,14 @@ Mobile prototype that brings UNIFOR's exchange program into a single place: oppo
 
 | Project | Description | Stack |
 |---|---|---|
-| [algoritmos-js-jest](https://github.com/Eujorgyn/algoritmos-js-jest) | Core algorithms with defensive programming and unit tests | JavaScript · Jest |
+| [testes-jest-algoritmos](https://github.com/Eujorgyn/testes-jest-algoritmos) | 6 core algorithms with defensive programming and 25 unit tests | JavaScript · Jest |
 | [node-aws-ec2](https://github.com/Eujorgyn/node-aws-ec2) | Request-response web app deployed on AWS EC2 | Node.js · AWS |
 | [api-usuarios-express](https://github.com/Eujorgyn/api-usuarios-express) | REST API that lists and queries users from JSON | Node.js · Express |
 | [site-soma](https://github.com/Eujorgyn/site-soma) | Form handling with GET and POST routes | Node.js · Express |
-| [algoritmos-java-debug](https://github.com/Eujorgyn/algoritmos-java-debug) | Algorithms and step-by-step debugging in Java | Java |
-| [algoritmos-js-java](https://github.com/Eujorgyn/algoritmos-js-java) | Summation, Fibonacci and Quicksort | JavaScript · Java |
-| [todo-list-js](https://github.com/Eujorgyn/todo-list-js) | To-do list web app | HTML · CSS · JavaScript |
+| [algoritmos-java-debug](https://github.com/Eujorgyn/algoritmos-java-debug) | Algorithm lab with Swing UI and step-by-step debugging | Java |
+| [frontend-html-css-js](https://github.com/Eujorgyn/frontend-html-css-js) | Interactive, responsive algorithm lab | HTML · CSS · JavaScript |
+| [todo-list-js](https://github.com/Eujorgyn/todo-list-js) | Task manager with localStorage and drag and drop | HTML · CSS · JavaScript |
+| [desafios-python](https://github.com/Eujorgyn/desafios-python) | Object-oriented programming: inheritance and polymorphism | Python |
 
 ### Contact
 
